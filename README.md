@@ -9,7 +9,7 @@ For any of my public repositores, constructive criticism in encouraged, learning
 - Cats & Dogs Image Classification ("Hello World of Deep Learning")
 - Credit Card Fraud Detection using Machine Learning
 - Data Analysis Reports:
-  - Effects of COVID-19 related Government Interventions on Industry
+  	- Effects of COVID-19 related Government Interventions on Industry
 	- Investigation into Ethnic-Specific Bias in UK Police Interventions
 ### In Progress Personal Projects (not all on GitHub):
 - Using Monte Carlo Methods for Portfolio Simulation
