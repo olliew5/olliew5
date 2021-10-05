@@ -6,13 +6,13 @@ For any of my public repositores, constructive criticism in encouraged, learning
 ## Looking to collaborate on/learn more about:
 - Any Machine Learning Projects (specifically forecasting, natural language processing or computer vision)
 
-## Completed Personal Projects (not all on GitHub):
+## Completed Personal Projects (not all on GitHub yet):
 - Cats & Dogs Image Classification ("Hello World of Deep Learning")
 - Credit Card Fraud Detection using Machine Learning
 - Data Analysis Reports:
   	- Effects of COVID-19 related Government Interventions on Industry
 	- Investigation into Ethnic-Specific Bias in UK Police Interventions
-## In Progress Personal Projects (not all on GitHub):
+## In Progress Personal Projects (not all on GitHub yet):
 - Using Monte Carlo Methods for Portfolio Simulation
 - Data Analysis Reports:
 	- Is Anthony Taylor a Fair Referee?
