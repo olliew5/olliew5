@@ -12,10 +12,9 @@ For any of my public repositores, constructive criticism in encouraged, learning
 - Data Analysis Reports:
   	- Effects of COVID-19 related Government Interventions on Industry
 	- Investigation into Ethnic-Specific Bias in UK Police Interventions
+	- Is Anthony Taylor a Fair Referee?
 ## In Progress Personal Projects (not all on GitHub yet):
 - Using Monte Carlo Methods for Portfolio Simulation
-- Data Analysis Reports:
-	- Is Anthony Taylor a Fair Referee?
 - Webscraping and Classifying Housing, Floorplan, and EPC Images
 
 
