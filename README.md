@@ -1,25 +1,7 @@
 Hi! 
 
-This profile is to highlight some of my personal projects related to statistics, data analysis, and data science.
-For any of my public repositores, constructive criticism in encouraged, learning more is the best way to become a better data scientist.
-
 ## Looking to collaborate on/learn more about:
-- Any Machine Learning Projects (specifically forecasting, natural language processing or computer vision)
-
-## Completed Personal Projects (not all on GitHub yet):
-- Cats & Dogs Image Classification ("Hello World of Deep Learning")
-- Credit Card Fraud Detection using Machine Learning
-- Data Analysis Reports:
-  	- Effects of COVID-19 related Government Interventions on Industry
-	- Investigation into Ethnic-Specific Bias in UK Police Interventions
-	- Is Anthony Taylor a Fair Referee?
-## In Progress Personal Projects (not all on GitHub yet):
-- Using Monte Carlo Methods for Portfolio Simulation
-- Webscraping and Classifying Housing, Floorplan, and EPC Images
-
-
-New to GitHub, so learning more about version control best practices.
-
+- Any Machine Learning Projects (specifically forecasting, natural language processing)
 <!--
 **olliew5/olliew5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
